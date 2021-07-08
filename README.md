@@ -15,3 +15,4 @@ Sample outcome of the experiments have been placed in the Sample_Output folder.
 # Citation
 Please refer the below paper while using sample code.
 >> https://doi.org/10.1016/j.mlwa.2021.100100
+Kundu S, Maulik U. Cloud deployment of game theoretic categorical clustering using apache spark: An application to car recommendation. Machine Learning with Applications. Elsevier. 2021 Jul 1:100100.
