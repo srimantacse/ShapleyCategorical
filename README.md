@@ -14,12 +14,4 @@ Sample outcome of the experiments have been placed in the Sample_Output folder.
    
 # Citation
 Please refer the below paper while using sample code.
->> Use it in the bibtex file.
-@article{kundu2021cloud,
-  title={Cloud deployment of game theoretic categorical clustering using apache spark: An application to car recommendation},
-  author={Kundu, Srimanta and Maulik, Ujjwal},
-  journal={Machine Learning with Applications},
-  pages={100100},
-  year={2021},
-  publisher={Elsevier}
-}
+>> https://doi.org/10.1016/j.mlwa.2021.100100
